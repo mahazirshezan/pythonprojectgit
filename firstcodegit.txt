@@ -5,4 +5,4 @@ Weather is good.
 Sadly can't go out today.
 
 submit data to the database.
-Adde new line.
+Add a new line.
